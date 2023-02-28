@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "name": "PROS Project",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Users/ericssonlin/code/XDrive/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "/Users/ericssonlin/Library/Application Support/Code/User/globalStorage/sigbots.pros/install/pros-toolchain-macos/bin/arm-none-eabi-g++",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-arm",
+            "compileCommands": "/Users/ericssonlin/code/XDrive/compile_commands.json",
+            "macFrameworkPath": [
+                "/System/Library/Frameworks"
+            ],
+            "browse": {
+                "path": [
+                    "/Users/ericssonlin/code/XDrive"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
+}
