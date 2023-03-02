@@ -1,6 +1,6 @@
-#include "control.h"
+#include "control.hpp"
 #include "api.h"
-#include "ports.h"
+#include "ports.hpp"
 using namespace pros;
 
 int control()

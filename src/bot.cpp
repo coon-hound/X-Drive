@@ -1,6 +1,6 @@
 #include <chrono>
 #include <cmath>
-#include "bot.h"
+#include "bot.hpp"
 #include "api.h"
 
 using namespace pros;
