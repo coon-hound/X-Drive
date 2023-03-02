@@ -22,6 +22,7 @@ Axis 4      Left/right
 Button Y    Toggle precision mode
 ```
 ![](https://kb.vex.com/hc/article_attachments/360042385051/5dc33ee3d12f1.jpeg)
+
 <sup>The VEX Controller Axis arrangement</sup>
 
 ## Autonomous Drive Functions
